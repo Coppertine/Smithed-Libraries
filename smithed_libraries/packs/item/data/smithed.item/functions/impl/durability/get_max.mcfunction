@@ -1,3 +1,9 @@
+# items = [
+#     {
+#         material: "gold",
+#         id: 
+#     }
+# ]
 
 scoreboard players set $temp4 smithed.data -1
 
